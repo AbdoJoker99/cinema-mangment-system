@@ -89,7 +89,7 @@ javac *.java
 
 ```md
 - Ahmed sherif
-- abdallah mohmed khaled 
+- Abdallah mohmed khaled 
 - Ahmed zakria
 - Anas Fassih
 - Abdelrahman wael
